@@ -1,3 +1,7 @@
-module knight_rider();
+module knight_rider(
+	input D
+);
+
+
 
 endmodule

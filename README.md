@@ -1,5 +1,5 @@
 ## 'Knight Rider'-like LEDs in Verilog, with Quartus Prime
-This repository contains a 'Knight Rider'-like effect for the 8 LEDs on the Trenz CYC1000 Board. As its main component it contains a shift register.
+This repository contains a 'Knight Rider'-like effect for the 8 LEDs on the Trenz CYC1000 Board. As its main component it contains a shift register and a finite state machine.
 
 ### IDE & Board
 - HDL: Verilog
